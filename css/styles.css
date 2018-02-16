@@ -1,0 +1,55 @@
+/* add your CSS here */
+body {
+	font-family: Verdana, sans serif;
+}
+
+img {
+	width: 300px;
+	margin: 0 auto;
+	border: 1px solid #9f9f9f;
+	box-sizing: border-box;
+}
+ul {
+	padding-left: 0;
+}
+li {
+	font-size: 12px;
+	list-style: none;
+}
+li span {
+	font-weight: bold;
+
+}
+
+h3 {
+	margin: 0 0 15px;
+	font-size: 16px;
+}
+p {
+	margin: 0;
+	font-size: 12px;
+}
+
+.card {
+	width: 300px;
+	padding: 20px;
+	box-sizing: content-box;
+	color: #ffffff;
+	background-image: url("../img/background.jpg");
+	background-size: cover;
+	border: 1px solid #9f9f9f;
+	border-radius: 30px;
+	
+}
+.details {
+	border: 1px solid #9f9f9f;
+	padding: 15px;
+	margin-top: 15px;
+	vertical-align: top;
+	border-radius: 0 0 20px 20px;	
+}
+
+.interesting-fact {
+	font-style: italic;
+	margin-top: 0;
+}
